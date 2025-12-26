@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="deposit_saving_pj/deposit_saving_pj.vcxproj" Id="78e86a9f-0d9d-4f83-ad9d-4de40f2d9466" />
+</Solution>
